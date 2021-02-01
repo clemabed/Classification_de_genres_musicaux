@@ -1,3 +1,6 @@
+Prédiction de l'appartenance d'un morceau à un genre musical à partir d'une part de modèles d'apprentissage automatique de Machine Learning et d'autre part de l'élaboration d'un réseaux de neurones. 
+
+
 ### Setup de l'environment
 1. Créer l'environment virtuel conda <br>
 ```conda create -n musique python=3.7```
